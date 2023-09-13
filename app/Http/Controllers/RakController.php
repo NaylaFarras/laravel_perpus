@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class PetugasController extends Controller
+class RakController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -19,7 +19,7 @@ class PetugasController extends Controller
      */
     public function create()
     {
-        return view('petugas.petugas');
+        return view('rak.rak');
         //
     }
 

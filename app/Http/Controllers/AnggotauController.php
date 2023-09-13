@@ -19,7 +19,7 @@ class AnggotauController extends Controller
      */
     public function create()
     {
-        return view('template.perpustakaan.anggota');
+        return view('anggota.anggota');
         //
     }
 
