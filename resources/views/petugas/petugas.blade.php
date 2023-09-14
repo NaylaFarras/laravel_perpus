@@ -11,7 +11,7 @@
                 @csrf
                 <div class="card-body">
                   <div class="form-group">
-                    <label for="exampleInputEmail1">Nama Petugas</label>
+                    <label for="exampleInputEmail1">Nama</label>
                     <input type="number" class="form-control" name="nama_petugas" placeholder="">
                     <label for="exampleInputEmail1">Jabatan Petugas</label>
                     <input type="text" class="form-control" name="jabatan_petugas" placeholder="">
